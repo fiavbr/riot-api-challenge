@@ -1,2 +1,2 @@
 # riot-api-challenge
-Riot API Challenge
+Readme
